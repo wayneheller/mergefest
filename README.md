@@ -1,16 +1,25 @@
-# welcome to mergefest
+# welcome to Mergefest
 
-1. edit this with your name *here*.
+1. Edit this with your first name *here*.
+----------------------------------------------
 
-now lets pull but take the master changes: 
+Now lets pull but take the master changes: 
 `git pull upstream master -s recursive -X theirs`
 
-(in your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
+(In your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
 
-now lets pull but take our local changes: 
+
+2. Edit this with your last name *here*.
+----------------------------------------------
+Now lets pull but take our local changes: 
 `git pull -s recursive -X ours`
 
-(in your normal repos to keep your changes, use `git pull upstream master -s recursive -X ours`)
+(In your normal repos to keep your changes, use `git pull upstream master -s recursive -X ours`)
 
-now lets pull but take both parts of our changes and their changes:
+3. Edit this with your favorite fruit *here* and your favorite song *here*.
+----------------------------------------------
+
+Now lets pull but take both parts of our changes and their changes:
 `git pull`
+
+Open your favorite text editor and follow along. 
