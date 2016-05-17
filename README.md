@@ -1,4 +1,4 @@
-# welcome to Mergefest
+# Welcome to Mergefest
 
 1. Edit this with your first name *here*.
 ----------------------------------------------
