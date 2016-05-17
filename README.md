@@ -19,6 +19,14 @@ Now lets pull but take our local changes:
 3. Edit this with your favorite fruit *here* and your favorite song *here*.
 ----------------------------------------------
 
+Also, write anything you want below this line. :) 
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/
+   
+(**EDIT THIS LINE!**)
+   
+/\/\/\/\/\/\/\/\/\/\/\/\/\
+
 Now lets pull but take both parts of our changes and their changes:
 `git pull`
 
