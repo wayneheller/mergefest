@@ -4,7 +4,7 @@
 ----------------------------------------------
 
 Now lets pull but take the master changes: 
-`git pull upstream master -s recursive -X theirs`
+`git pull -s recursive -X theirs`
 
 (In your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
 
