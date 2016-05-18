@@ -14,7 +14,7 @@ We have a merge conflict! Yay!
 Let's reset to our last change by running `git reset --hard HEAD~1`
 
 Now lets pull but take the master changes: 
-`git pull -s upstream master recursive -X theirs`
+`git pull upstream master -s recursive -X theirs`
 
 (In your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
 
