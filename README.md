@@ -1,5 +1,8 @@
 # Welcome to Mergefest
 
+add this as the remote: `git remote add upstream https://github.com/outdoola/mergefest`
+
+
 1. Edit this with your first name *here*.
 ----------------------------------------------
 
