@@ -4,7 +4,7 @@ add this as the remote: `git remote add upstream https://github.com/outdoola/mer
 
 once you add this make sure your remote is there with `git remote -v`
 
-1. Edit this with your first name *Hello!!*.
+1. Edit this with your first name *Wayne*.
 ----------------------------------------------
 
 Lets try to `git pull upstream master` and see what happens.
