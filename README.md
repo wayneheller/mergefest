@@ -2,6 +2,7 @@
 
 add this as the remote: `git remote add upstream https://github.com/outdoola/mergefest`
 
+once you add this make sure your remote is there with `git remote -v`
 
 1. Edit this with your first name *here*.
 ----------------------------------------------
