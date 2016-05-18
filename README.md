@@ -1,6 +1,6 @@
 # Welcome to Mergefest
 
-1. Edit this with your first name *here*.
+1. Edit this with your first name *Kevin*.
 ----------------------------------------------
 
 Now lets pull but take the master changes: 
