@@ -3,14 +3,14 @@
 1. Edit this with your first name *here*.
 ----------------------------------------------
 
-Lets try to `git pull` and see what happens.
+Lets try to `git pull upstream master` and see what happens.
 
 We have a merge conflict! Yay!
 
 Let's reset to our last change by running `git reset --hard HEAD~1`
 
 Now lets pull but take the master changes: 
-`git pull -s recursive -X theirs`
+`git pull -s upstream master recursive -X theirs`
 
 (In your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
 
@@ -18,7 +18,7 @@ Now lets pull but take the master changes:
 2. Edit this with your last name *here*.
 ----------------------------------------------
 Now lets pull but take our local changes: 
-`git pull -s recursive -X ours`
+`git pull upstream master -s recursive -X ours`
 
 (In your normal repos to keep your changes, use `git pull upstream master -s recursive -X ours`)
 
