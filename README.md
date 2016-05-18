@@ -1,7 +1,13 @@
 # Welcome to Mergefest
 
-1. Edit this with your first name *Kevin*.
+1. Edit this with your first name *here*.
 ----------------------------------------------
+
+Lets try to `git pull` and see what happens.
+
+We have a merge conflict! Yay!
+
+Let's reset to our last change by running `git reset --hard HEAD~1`
 
 Now lets pull but take the master changes: 
 `git pull -s recursive -X theirs`
